@@ -6,7 +6,7 @@ Inspirated by hyuncafe and her beutifull README
 
 <h2 align="center"> Self-taught Computer wizard trying to master spells and having fun doing so </h2> <br>
 
-<img src="assets/54
+<img src="assets/Wizzardpc.jpg" alt="Wizard pondering upon a PC">
 
 💠 :snake Currently learning Python and data analysis!
     Going trough these right now:
@@ -22,6 +22,8 @@ Inspirated by hyuncafe and her beutifull README
 💠 Goal is to land a field relevent job and finish my degree in the process <br><br>
 
 💠 Gamer, Anime/manga enjoyer
+
+<img src="assets/assets/wizzardonstackoverflow.jpg">
 
 
 
