@@ -8,7 +8,7 @@ Inspirated by hyuncafe and her beutifull README
 
 <img src="assets/Wizzardpc.jpg" alt="Wizard pondering upon a PC">
 
-💠 🐍 Currently learning Python and data analysis! 🐍
+💠 🐍 Currently learning Python and data analysis! 🐍 <br>
     Going trough these right now:
     - Udemy 100 Days of code: Complete Python
     - The Odin project(Fundamentals + Fullstack Ruby)
@@ -23,7 +23,7 @@ Inspirated by hyuncafe and her beutifull README
 
 💠 Gamer, Anime/manga enjoyer
 
-<img src="assets/assets/wizzardonstackoverflow.jpg">
+<img src="assets/wizzardonstackoverflow.jpg">
 <h2> late night stackoverflow search</h2>
 
 
